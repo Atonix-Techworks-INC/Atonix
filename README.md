@@ -7,4 +7,5 @@ Owned By Amaris/Huddy
 
 
 
-current version - V2.0.4
+current version - v2.0.4
+current state - Discontinued
